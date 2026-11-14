@@ -1,5 +1,7 @@
 # CSS first session
 
+CSS first session to review css selectors.
+
 ## CSS rule
 
 ```css
